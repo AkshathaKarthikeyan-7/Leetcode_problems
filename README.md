@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
@@ -20,4 +21,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
