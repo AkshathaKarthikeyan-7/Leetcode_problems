@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0268-missing-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
