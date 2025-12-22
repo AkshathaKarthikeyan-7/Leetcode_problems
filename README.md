@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0268-missing-number) |
@@ -60,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
