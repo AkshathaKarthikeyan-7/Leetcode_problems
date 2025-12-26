@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0268-missing-number) |
+| [1006-clumsy-factorial](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/1006-clumsy-factorial) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
@@ -80,4 +81,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Stack
+|  |
+| ------- |
+| [1006-clumsy-factorial](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/1006-clumsy-factorial) |
+## Simulation
+|  |
+| ------- |
+| [1006-clumsy-factorial](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/1006-clumsy-factorial) |
 <!---LeetCode Topics End-->
