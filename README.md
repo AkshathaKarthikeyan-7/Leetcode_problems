@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0022-generate-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Sliding Window
@@ -91,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1006-clumsy-factorial](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/1006-clumsy-factorial) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
