@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0860-lemonade-change](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
@@ -97,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
