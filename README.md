@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0268-missing-number) |
 | [1006-clumsy-factorial](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/1006-clumsy-factorial) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
