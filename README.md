@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1006-clumsy-factorial](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/1006-clumsy-factorial) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0412-fizz-buzz](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1006-clumsy-factorial](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/1006-clumsy-factorial) |
 ## Backtracking
 |  |
