@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0860-lemonade-change](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
