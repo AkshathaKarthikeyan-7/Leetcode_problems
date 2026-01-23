@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/1006-clumsy-factorial) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0118-pascals-triangle) |
+| [0509-fibonacci-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0509-fibonacci-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Sliding Window
 |  |
@@ -116,4 +118,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0860-lemonade-change) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AkshathaKarthikeyan-7/Leetcode_problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
